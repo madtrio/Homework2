@@ -66,5 +66,6 @@ public class Main {
         personalTime = totalTime / newPersonal;
 
         System.out.println("Если в компании работает " + newPersonal + " человек, то всего " + personalTime + " часов работы может быть поделено между сотрудниками");
+
     }
 }
